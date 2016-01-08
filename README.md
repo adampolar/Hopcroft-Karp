@@ -1,6 +1,9 @@
 # Hopcroft-Karp
 A worst case O(E*sqrt(V)) (where E is the number of edges and V is the number of Vertices) solution for finding the maximum cardinality matching for a bipartite graph with the condition no edges share an endpoint. http://en.wikipedia.org/wiki/Hopcroft%E2%80%93Karp_algorithm
 
+This code is taken from http://www.sanfoundry.com/java-program-hopcroft-karp-algorithm/ and just ported to C# in a quick and messy manner
+
+
 ```C#
 /**
  ** C# Program to Implement Hopcroft Algorithm
